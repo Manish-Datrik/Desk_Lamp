@@ -1,38 +1,33 @@
-## Bill of Materials (BOM)
+No.,Part Name,Quantity,Material,Volume (cm³),Unit Price (USD),Total Price (USD)
+1,Base Pivot Cover,1,ABS Plastic,—,0.08,0.08
+2,Head Pivot Pin,1,Aluminum 6061,0.396,0.02,0.02
+3,Elbow Joint Connector,1,Aluminum 6061,7.455,0.42,0.42
+4,Head Adjustment Knob,1,ABS Plastic,1.570,0.04,0.04
+5,Adjustment Knob,1,ABS Plastic,1.570,0.04,0.04
+6,Head Pivot Cover,1,ABS Plastic,—,0.08,0.08
+7,Circular Base,1,ABS Plastic,235.727,5.88,5.88
+8,Upper Arm,1,Aluminum 6061,34.326,1.94,1.94
+9,Housing Rear Cable Anchor,1,ABS Plastic,—,0.10,0.10
+10,Mounting Connector,1,Aluminum 6061,9.520,0.54,0.54
+11,Lamp Housing,1,Aluminum 6061,59.418,3.36,3.36
+12,Upper Arm Cable Channel,1,ABS Plastic,—,0.35,0.35
+13,Lower Arm,1,Aluminum 6061,50.089,2.83,2.83
+14,Base Pivot Pin,1,Aluminum 6061,0.903,0.05,0.05
+15,Elbow Pivot Pin,1,Aluminum 6061,0.861,0.05,0.05
+16,Lower Arm Cable Channel,1,ABS Plastic,—,0.35,0.35
+17,Rubber Grip Pad,4,"Rubber, Black",0.305 each,0.02,0.08
+18,Elbow Adjustment Knob,1,ABS Plastic,1.570,0.04,0.04
+19,Head Support Bracket,1,Aluminum 6061,16.582,0.94,0.94
+20,Base Cable Guide,1,ABS Plastic,—,0.12,0.12
+21,Base Support Bracket,1,Aluminum 6061,14.068,0.80,0.80
+22,Elbow Pivot Cover,1,ABS Plastic,—,0.08,0.08
+23,Front Cover,1,"Glass, Frosted",16.980,0.13,0.13
+24,Cable Clip,6,ABS Plastic,—,0.06,0.36
+,TOTAL,30,,,,18.68
 
-| No. | Part Name | Quantity | Material | Volume (cm³) | Unit Price (USD) | Total Price (USD) |
-|---:|---|---:|---|---:|---:|---:|
-| 1 | Base Pivot Cover | 1 | ABS Plastic | — | $0.08 | $0.08 |
-| 2 | Head Pivot Pin | 1 | Aluminum 6061 | 0.396 | $0.02 | $0.02 |
-| 3 | Elbow Joint Connector | 1 | Aluminum 6061 | 7.455 | $0.42 | $0.42 |
-| 4 | Head Adjustment Knob | 1 | ABS Plastic | 1.570 | $0.04 | $0.04 |
-| 5 | Adjustment Knob | 1 | ABS Plastic | 1.570 | $0.04 | $0.04 |
-| 6 | Head Pivot Cover | 1 | ABS Plastic | — | $0.08 | $0.08 |
-| 7 | Circular Base | 1 | ABS Plastic | 235.727 | $5.88 | $5.88 |
-| 8 | Upper Arm | 1 | Aluminum 6061 | 34.326 | $1.94 | $1.94 |
-| 9 | Housing Rear Cable Anchor | 1 | ABS Plastic | — | $0.10 | $0.10 |
-| 10 | Mounting Connector | 1 | Aluminum 6061 | 9.520 | $0.54 | $0.54 |
-| 11 | Lamp Housing | 1 | Aluminum 6061 | 59.418 | $3.36 | $3.36 |
-| 12 | Upper Arm Cable Channel | 1 | ABS Plastic | — | $0.35 | $0.35 |
-| 13 | Lower Arm | 1 | Aluminum 6061 | 50.089 | $2.83 | $2.83 |
-| 14 | Base Pivot Pin | 1 | Aluminum 6061 | 0.903 | $0.05 | $0.05 |
-| 15 | Elbow Pivot Pin | 1 | Aluminum 6061 | 0.861 | $0.05 | $0.05 |
-| 16 | Lower Arm Cable Channel | 1 | ABS Plastic | — | $0.35 | $0.35 |
-| 17 | Rubber Grip Pad | 4 | Rubber, Black | 0.305 each | $0.02 | $0.08 |
-| 18 | Elbow Adjustment Knob | 1 | ABS Plastic | 1.570 | $0.04 | $0.04 |
-| 19 | Head Support Bracket | 1 | Aluminum 6061 | 16.582 | $0.94 | $0.94 |
-| 20 | Base Cable Guide | 1 | ABS Plastic | — | $0.12 | $0.12 |
-| 21 | Base Support Bracket | 1 | Aluminum 6061 | 14.068 | $0.80 | $0.80 |
-| 22 | Elbow Pivot Cover | 1 | ABS Plastic | — | $0.08 | $0.08 |
-| 23 | Front Cover | 1 | Glass, Frosted | 16.980 | $0.13 | $0.13 |
-| 24 | Cable Clip | 6 | ABS Plastic | — | $0.06 | $0.36 |
-| | **TOTAL** | **30** | | | | **$18.68** |
+Material Price Reference
+Material,Price per kg (USD)
+ABS Plastic,24.00
+Aluminum 6061,20.94
 
-### Material Price Reference
-
-| Material | Price per kg |
-|---|---:|
-| ABS Plastic | $24.00 |
-| Aluminum 6061 | $20.94 |
-
-**Total BOM Cost: $18.68 USD**
+Total BOM Cost (USD),18.68
