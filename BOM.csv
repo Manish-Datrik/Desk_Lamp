@@ -1,31 +1,38 @@
-﻿Part Name,Desk_Lamp
-Working BOM,"as of November 22, 2026 at 3:37:50 PM UTC"
-Exported by,manyaa062@gmail.com
-Time of Export,"3:37 PM Nov 22, 2026"
+## Bill of Materials (BOM)
 
-,Part Name,Revision/Version,Description,Part Number,Item Number,Lifecycle,Revision,State,Quantity,Material,Change Order
-,Desk_Lamp,,,2026-11-22-08-35-22-088,,,,Working,1,,
-1,Base Pivot Cover,,,2026-11-22-10-22-33-910,,,,Working,1,ABS Plastic,
-2,Head Pivot Pin,,,2026-11-22-09-22-23-900,,,,Working,1,Aluminum 6061,
-3,Elbow Joint Connector,,,2026-11-22-09-13-58-192,,,,Working,1,Aluminum 6061,
-4,Head Adjustment Knob,,,2026-11-22-09-22-23-921,,,,Working,1,ABS Plastic,
-5,Adjustment Knob,,,2026-11-22-08-49-23-682,,,,Working,1,ABS Plastic,
-6,Head Pivot Cover,,,2026-11-22-10-22-34-385,,,,Working,1,ABS Plastic,
-7,Circular Base,,,2026-11-22-08-41-16-784,,,,Working,1,ABS Plastic,
-8,Upper Arm,,,2026-11-22-09-13-58-178,,,,Working,1,Aluminum 6061,
-9,Housing Rear Cable Anchor,,,2026-11-22-10-22-33-482,,,,Working,1,ABS Plastic,
-10,Mounting Connector,,,2026-11-22-10-07-39-543,,,,Working,1,Aluminum 6061,
-11,Lamp Housing,,,2026-11-22-10-07-11-432,,,,Working,1,Aluminum 6061,
-12,Upper Arm Cable Channel,,,2026-11-22-10-23-03-986,,,,Working,1,ABS Plastic,
-13,Lower Arm,,,2026-11-22-08-49-23-642,,,,Working,1,Aluminum 6061,
-14,Base Pivot Pin,,,2026-11-22-08-49-23-668,,,,Working,1,Aluminum 6061,
-15,Elbow Pivot Pin,,,2026-11-22-09-13-58-206,,,,Working,1,Aluminum 6061,
-16,Lower Arm Cable Channel,,,2026-11-22-10-23-03-313,,,,Working,1,ABS Plastic,
-17,Rubber Grip Pad,,,2026-11-22-10-22-32-254,,,,Working,4,"Rubber, Black",
-18,Elbow Adjustment Knob,,,2026-11-22-09-13-58-223,,,,Working,1,ABS Plastic,
-19,Head Support Bracket,,,2026-11-22-09-22-23-851,,,,Working,1,Aluminum 6061,
-20,Base Cable Guide,,,2026-11-22-10-22-32-761,,,,Working,1,ABS Plastic,
-21,Base Support Bracket,,,2026-11-22-08-41-16-816,,,,Working,1,Aluminum 6061,
-22,Elbow Pivot Cover,,,2026-11-22-10-23-04-941,,,,Working,1,ABS Plastic,
-23,Front Cover,,,2026-11-22-10-07-39-371,,,,Working,1,"Glass, Frosted",
-24,Cable Clip,,,2026-11-22-10-23-04-519,,,,Working,6,ABS Plastic,
+| No. | Part Name | Quantity | Material | Volume (cm³) | Unit Price (USD) | Total Price (USD) |
+|---:|---|---:|---|---:|---:|---:|
+| 1 | Base Pivot Cover | 1 | ABS Plastic | — | $0.08 | $0.08 |
+| 2 | Head Pivot Pin | 1 | Aluminum 6061 | 0.396 | $0.02 | $0.02 |
+| 3 | Elbow Joint Connector | 1 | Aluminum 6061 | 7.455 | $0.42 | $0.42 |
+| 4 | Head Adjustment Knob | 1 | ABS Plastic | 1.570 | $0.04 | $0.04 |
+| 5 | Adjustment Knob | 1 | ABS Plastic | 1.570 | $0.04 | $0.04 |
+| 6 | Head Pivot Cover | 1 | ABS Plastic | — | $0.08 | $0.08 |
+| 7 | Circular Base | 1 | ABS Plastic | 235.727 | $5.88 | $5.88 |
+| 8 | Upper Arm | 1 | Aluminum 6061 | 34.326 | $1.94 | $1.94 |
+| 9 | Housing Rear Cable Anchor | 1 | ABS Plastic | — | $0.10 | $0.10 |
+| 10 | Mounting Connector | 1 | Aluminum 6061 | 9.520 | $0.54 | $0.54 |
+| 11 | Lamp Housing | 1 | Aluminum 6061 | 59.418 | $3.36 | $3.36 |
+| 12 | Upper Arm Cable Channel | 1 | ABS Plastic | — | $0.35 | $0.35 |
+| 13 | Lower Arm | 1 | Aluminum 6061 | 50.089 | $2.83 | $2.83 |
+| 14 | Base Pivot Pin | 1 | Aluminum 6061 | 0.903 | $0.05 | $0.05 |
+| 15 | Elbow Pivot Pin | 1 | Aluminum 6061 | 0.861 | $0.05 | $0.05 |
+| 16 | Lower Arm Cable Channel | 1 | ABS Plastic | — | $0.35 | $0.35 |
+| 17 | Rubber Grip Pad | 4 | Rubber, Black | 0.305 each | $0.02 | $0.08 |
+| 18 | Elbow Adjustment Knob | 1 | ABS Plastic | 1.570 | $0.04 | $0.04 |
+| 19 | Head Support Bracket | 1 | Aluminum 6061 | 16.582 | $0.94 | $0.94 |
+| 20 | Base Cable Guide | 1 | ABS Plastic | — | $0.12 | $0.12 |
+| 21 | Base Support Bracket | 1 | Aluminum 6061 | 14.068 | $0.80 | $0.80 |
+| 22 | Elbow Pivot Cover | 1 | ABS Plastic | — | $0.08 | $0.08 |
+| 23 | Front Cover | 1 | Glass, Frosted | 16.980 | $0.13 | $0.13 |
+| 24 | Cable Clip | 6 | ABS Plastic | — | $0.06 | $0.36 |
+| | **TOTAL** | **30** | | | | **$18.68** |
+
+### Material Price Reference
+
+| Material | Price per kg |
+|---|---:|
+| ABS Plastic | $24.00 |
+| Aluminum 6061 | $20.94 |
+
+**Total BOM Cost: $18.68 USD**
