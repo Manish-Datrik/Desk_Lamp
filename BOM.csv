@@ -24,10 +24,3 @@ No.,Part Name,Quantity,Material,Volume (cm³),Unit Price (USD),Total Price (USD)
 23,Front Cover,1,"Glass, Frosted",16.980,0.13,0.13
 24,Cable Clip,6,ABS Plastic,—,0.06,0.36
 ,TOTAL,30,,,,18.68
-
-Material Price Reference
-Material,Price per kg (USD)
-ABS Plastic,24.00
-Aluminum 6061,20.94
-
-Total BOM Cost (USD),18.68
