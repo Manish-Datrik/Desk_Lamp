@@ -68,12 +68,6 @@ The cable itself and electrical components are not included in the current CAD m
 
 The different parts are connected using joints in Fusion 360. These allow the base connection, elbow and lamp head to move.
 
-The movement limits used during the CAD checks were:
-
-- Base pivot: ±20°
-- Elbow joint: ±40°
-- Lamp head tilt: -20° to +12°
-
 I also checked the assembly for overlapping parts and adjusted the movement limits where needed.
 
 ## project outcome
