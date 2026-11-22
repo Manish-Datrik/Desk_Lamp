@@ -2,6 +2,7 @@
 
 A 3D CAD project of an adjustable desk lamp designed using **Autodesk Fusion 360**. The main idea was to create a lamp that can be adjusted into different positions, with a stable base, movable arms and a tilting lamp head.
 
+Printables:- https://www.printables.com/model/1925667-adjustable_desk_lamp
 ## project overview
 
 This project focuses on designing a practical desk lamp with adjustable parts. The lamp has a circular base, two connected arms and a movable lamp head. The joints allow the lamp to be positioned according to the user's needs.
